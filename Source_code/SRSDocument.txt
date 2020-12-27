@@ -1,0 +1,37 @@
+SRS Document
+(System Requirements Specification)
+
+Topic : Campus Recruitment System			Group no. : 09 
+
+Functional Requirements :
+•	Requires internet connection
+•	Requires hardware device with has web browser to access the website.
+•	User should be able to register for a new account.
+•	User should be able to login into his account session from the system after his valid credentials are verified.
+•	User shall be able to search for a particular company.
+•	When the user enters the information, the system shall send an approval request.
+•	User shall be able to upload his/her resume in pdf format.
+•	The server shall log all changes to existing data.
+•	All user data shall be stored into the database.
+•	User should be able to send query request to the administration cell.
+•	User should be able to logout of the session from the system in which he had logged-in.
+
+
+
+Non-functional Requirements :
+•	Database security shall meet HIPAA requirements.
+•	The layout shall allow users to reach their profile data from any page within 3 clicks.
+•	The system must accommodate a minimum of 5 thousand users.
+•	All web pages shall load within 4 seconds.
+•	The server room shall accommodate a future doubling of installed hardware.
+•	The server room shall be accessible by authorized employees 24 hours per day.
+•	System programming shall not use deprecated code.
+
+
+External Interface Requirements:
+•	Hardware Interface: a internet compatible hardware de- vice.
+•	Software Interface: web browser, php server, mysql database and server.
+•	User Interface: a GUI website, compatible with mobile view and desktop view etc.
+
+
+
